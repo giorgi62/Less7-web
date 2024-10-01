@@ -1,0 +1,39 @@
+.header{
+    width: 1220px;
+    height: 65px;
+    margin-top: 53px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+.header-box{
+    width: 184px;
+    height: 65px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blueviolet;
+    font-family: 'Inter 18pt';
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21.87px;
+    color: #FFFFFF;
+}
+.header-nav{
+    width: 601px;
+    height: 65px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+a{
+    font-family: 'Inter 18pt';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21.87px;
+    color: #37393F;
+}
